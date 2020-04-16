@@ -37,14 +37,10 @@ color: white;
 .nav-link:hover {
     color: $brand-color;
 }
-.logo {
-    max-width: 200px;
-}
 .nav-logo {
-    max-width: 120px;
+    max-width: 55px;
 }
 .navbar-brand {
-    border: 1px solid black;
     padding: 8px 13px;
 }
 .brand-color {
@@ -59,7 +55,7 @@ color: white;
     width: 100%;
     left: 0;
     top: 0;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.35);
 }
 .subheader {
     background-image: url(/img/hero.jpg);

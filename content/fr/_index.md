@@ -1,7 +1,7 @@
 ---
 layout: home
 # Meta Data
-title: "Accueil | Sites Professionel Pour Les Petites Entreprises"
+title: "Accueil"
 description: "Vous cherchez à avoir un bon site internet sans briser la banque? Découvrez les sites Gold Standard. Visitez notre site pour plus d'information"
 keywords: "site internet, gold standard, site pas trop cher"
 # Hero Section

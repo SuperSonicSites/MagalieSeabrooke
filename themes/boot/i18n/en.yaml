@@ -1,2 +1,6 @@
 - id: hours
   translation: "Business Hours"
+- id: closed
+  translation: "CLOSED"
+- id: tagline
+  translation: "Helping families reach their goals of Post Secondary Education and help Canadian children break down financial obstacles by using the government grants available to them."
