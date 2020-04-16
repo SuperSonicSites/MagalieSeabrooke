@@ -2,12 +2,12 @@
 layout: home
 # Meta Data
 title: "Accueil"
-description: "Vous cherchez à avoir un bon site internet sans briser la banque? Découvrez les sites Gold Standard. Visitez notre site pour plus d'information"
-keywords: "site internet, gold standard, site pas trop cher"
+description: "  Vous cherchez à avoir un bon site internet sans briser la banque? Découvrez les sites Gold Standard. Visitez notre site pour plus d'information"
+keywords: "REEE, Magalie Seabrooke, CST consultant"
 # Hero Section
-welcome: "Bienvenue"
-h1: "Gabarit #1"
-lead: "Le Leader Mondial En Site Internet Puissant et Rapide"
+welcome: "Préparez vous à"
+h1: "Libérer tout le potentiel de votre REEE"
+lead: "Avec Magalie Seabrooke Consultante CST"
 cta: "Nos Services"
 cta__link: "services"
 # Service Section
