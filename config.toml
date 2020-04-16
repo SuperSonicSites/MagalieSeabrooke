@@ -1,0 +1,97 @@
+DefaultContentLanguage = "fr"
+baseURL = "/"
+title = "Framework One - The Small Business Website Framework"
+theme = "boot"
+relativeURLs = true
+googleAnalytics = "UA-152851764-2" # Your Analytics ID here
+
+[languages]
+  [languages.fr]
+    title = "Les Sites Gold Standard"
+    weight = 1
+    languageCode = "fr-ca"
+    contentDir = "content/fr"
+    name = "fr"
+    greatquote = "Votre Service Est Unique"
+
+
+    [[languages.fr.menu.main]]
+        name = "Accueil"
+        url = "/"
+        weight = 1
+
+    [[languages.fr.menu.main]]
+        name = "A Propos"
+        url = "/a-propos/"
+        weight = 2
+
+    [[languages.fr.menu.main]]
+        name = "Services"
+        url = "/services/"
+        weight = 3
+
+    [[languages.fr.menu.main]]
+        name = "Gallerie"
+        url = "/gallerie/"
+        weight = 4
+
+    [[languages.fr.menu.main]]
+        name = "Contact"
+        url = "/contact/"
+        weight = 5
+
+[languages.en]
+    title = "Gold Standard Sites"
+    weight = 2
+    languageCode = "en-ca"
+    contentDir = "content/en"
+    name = "en"
+    greatquote = "Your Great Quote Goes Here"
+    
+    [[languages.en.menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+    
+    [[languages.en.menu.main]]
+        name = "About"
+        url = "/about/"
+        weight = 2
+
+    [[languages.en.menu.main]]
+        name = "Services"
+        url = "/services/"
+        weight = 3
+
+    [[languages.en.menu.main]]
+        name = "Gallery"
+        url = "/gallery/"
+        weight = 4
+
+    [[languages.en.menu.main]]
+        name = "Contact"
+        url = "/contact/"
+        weight = 5
+
+[params]
+    color = "orangered"
+    # Schema Information
+    businessname = "XYZ Inc."
+    type = "LocalBusiness" # Enter Your Type of business - schema.org
+    pricerange = "2" # Enter Your Price range 1 to 5
+    reviewcount = "5" # How many reviews you've got
+    reviewvalue = "4.5" # Average ratings on Yelp & Google
+    reservation = "true" # Do you accept reservations? Enter true or false
+    openinghour = "Mo-Sa 11:00-22:00" # Opening Hours
+    address = "123 Sample Street" # Enter Address Here
+    city = "Rigaud" # Enter City
+    region = "QC" # Enter State or Province Here
+    country = "Canada" #Enter Country Here
+    postalcode = "J0P 1P0" # Enter Postal Code
+    phone = "+1-123-456-7890" # Enter Phone Number
+    email = "info@goldstandardsites.com" # Enter Your Email
+    facebookurl = "https://www.facebook.com/"
+    instagram = "https://instagram.com/"
+    logo = "img/logo.png"
+    image = "img/og.png" # Ideal 1200 x 630 for schema + og
+
