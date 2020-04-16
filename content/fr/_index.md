@@ -14,10 +14,10 @@ cta__link: "services"
 h2: "Épargnez Sans Jamais Risquer Votre Capital"
 subhead2: "En ce qui concerne l'avenir de vos enfants, personne ne veut le laisser au hasard. Depuis plus de 10 ans, Magalie Seabrooke aide les familles à naviguer leurs options, maximiser les subventions gouvernemental et protéger leur capital grace à la Fondation Fiduciaire Canadienne de Bourses D’Études"
 
-h3: "On s'occupe de la technologie"
-subhead3: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus."
+h3: "Travailllez Avec Une Spécialiste"
+subhead3: "Ma mission avec la Fondation Fiduciaire Canadienne de Bourses D’Études est d'ider les familles à atteindre leurs objectifs en matière d'études postsecondaires et aider les enfants canadiens à éliminer les obstacles financiers en utilisant les subventions gouvernementales à leur disposition."
 # SERVICES BOX SECTION
-service1: "Service personnalisé"
+service1: "Service Personnalisé"
 service1__desc: "À partir du premier jour, jusqu’à celui où votre enfant obtient son diplôme d’études postsecondaires, Magalie et son équipe sont là pour vous."
 
 service2: "Capital Garanti"
@@ -27,23 +27,8 @@ service3: "Régime Sur Mesure"
 service3__desc: "Magalie et son équipe vont créé un programme d'épargne fait sur mesure, ouvrir des nouvelles avenues et vous aider tout le long du processus."
 
 # BENEFIT SECTION
-benefit1: "Avantage #1"
-benefit1__desc: "Votre entreprise est meilleur que le compétiteur"
-
-benefit2: "Avantage #2"
-benefit2__desc: "Votre entreprise est meilleur que le compétiteur"
-
-benefit3: "Avantage #3"
-benefit3__desc: "Votre entreprise est meilleur que le compétiteur"
-
-benefit4: "Avantage #4"
-benefit4__desc: "Votre entreprise est meilleur que le compétiteur"
-
-benefit5: "Avantage #5"
-benefit5__desc: "Votre entreprise est meilleur que le compétiteur"
-
-benefit6: "Avantage #6"
-benefit6__desc: "Votre entreprise est meilleur que le compétiteur"
+cta__link2: "a-propos"
+cta2: "En Savoir Plus"
 
 # TESTIMONIAL SECTION
 testimonial1: "Lorem Ipsum" # Name 

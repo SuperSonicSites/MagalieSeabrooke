@@ -6,7 +6,7 @@
         <div class="welcome-to font-weight-bold">{{.Params.welcome}}</div>
         <h1 class="display-3 uppercase">{{.Params.h1}}</h1>
         <p class="lead">{{.Params.lead}}</p>
-        <a href="{{.Params.cta__link}}"><button class="btn btn-outline-light btn-lg">{{.Params.cta}}</button></a>
+          <a href="{{.Params.cta__link}}"><button class="btn btn-outline-light btn-lg">{{.Params.cta}}</button></a>
       </div>
     </div>
   </div>
@@ -49,96 +49,14 @@
   <div class="container">
   <h2 class="home__benefits--heading display-4 text-center uppercase" data-aos="fade-up" data-aos-duration="800">{{.Params.h3}}</h2>
   <div class="lead home__benefits--subheading text-center pb-5" data-aos="fade-up" data-aos-duration="800">{{.Params.subhead3}}</div>
-  <img src="{{ $.Site.BaseURL }}img/hero.jpg" alt="" class="benefits__img img-fluid shadow" data-aos="fade-up" data-aos-duration="800">
-</div>
-<section class="home__benefits-2 bg-white pb-5">
-  <div class="container">
-    <div class="row my-3 row-1">
-      <div class="col-lg-4 col-md-4 cols-sm-12">
-        <div class="icon__box d-flex flex-row" data-aos="fade-right" data-aos-duration="400">
-        <div class="icon">
-          <svg class="fill-brand">
-            <use xlink:href="{{ $.Site.BaseURL }}img/light.svg#star"></use>
-          </svg>
-        </div>
-          <div class="icon__box--text pl-3">
-          <h3>{{.Params.benefit1}}</h3>
-            <p>{{.Params.benefit1__desc}}</p>
-          </div>
-    </div>
-  </div>
-  <div class="col-lg-4 col-md-4 cols-sm-12">
-    <div class="icon__box d-flex flex-row" data-aos="fade-right" data-aos-duration="400">
-    <div class="icon">
-      <svg class="fill-brand">
-        <use xlink:href="{{ $.Site.BaseURL }}img/light.svg#star"></use>
-      </svg>
-    </div>
-      <div class="icon__box--text pl-3">
-      <h3>{{.Params.benefit2}}</h3>
-        <p>{{.Params.benefit2__desc}}</p>
-      </div>
+  <img src="{{ $.Site.BaseURL }}img/hero2.jpg" alt="{{ $.Site.Params.alt }}" class="w-100 img-fluid shadow" data-aos="fade-up" data-aos-duration="800">
+  <div class="d-flex justify-content-center mt-5 mb-5">
+  <a href="{{.Params.cta__link2}}"><button class="btn btn-outline-dark btn-lg">{{.Params.cta2}}</button></a>
 </div>
 </div>
-<div class="col-lg-4 col-md-4 cols-sm-12">
-  <div class="icon__box d-flex flex-row" data-aos="fade-right" data-aos-duration="400">
-  <div class="icon">
-    <svg class="fill-brand">
-      <use xlink:href="{{ $.Site.BaseURL }}img/light.svg#star"></use>
-    </svg>
-  </div>
-    <div class="icon__box--text pl-3">
-    <h3>{{.Params.benefit3}}</h3>
-      <p>{{.Params.benefit3__desc}}</p>
-    </div>
-</div>
-</div>
-    </div>
-    <div class="row my-3 row-2">
-      <div class="col-lg-4 col-md-4 cols-sm-12">
-        <div class="icon__box d-flex flex-row" data-aos="fade-right" data-aos-duration="400">
-        <div class="icon">
-          <svg class="fill-brand">
-            <use xlink:href="{{ $.Site.BaseURL }}img/light.svg#star"></use>
-          </svg>
-        </div>
-          <div class="icon__box--text pl-3">
-          <h3>{{.Params.benefit4}}</h3>
-            <p>{{.Params.benefit4__desc}}</p>
-          </div>
-    </div>
-  </div>
-  <div class="col-lg-4 col-md-4 cols-sm-12">
-    <div class="icon__box d-flex flex-row" data-aos="fade-right" data-aos-duration="400">
-    <div class="icon">
-      <svg class="fill-brand">
-        <use xlink:href="{{ $.Site.BaseURL }}img/light.svg#star"></use>
-      </svg>
-    </div>
-      <div class="icon__box--text pl-3">
-      <h3>{{.Params.benefit5}}</h3>
-        <p>{{.Params.benefit5__desc}}</p>
-      </div>
-</div>
-</div>
-<div class="col-lg-4 col-md-4 cols-sm-12">
-  <div class="icon__box d-flex flex-row" data-aos="fade-right" data-aos-duration="400">
-  <div class="icon">
-    <svg class="fill-brand">
-      <use xlink:href="{{ $.Site.BaseURL }}img/light.svg#star"></use>
-    </svg>
-  </div>
-    <div class="icon__box--text pl-3">
-    <h3>{{.Params.benefit6}}</h3>
-      <p>{{.Params.benefit6__desc}}</p>
-    </div>
-</div>
-</div>
-    </div>
-</div>
-</section>
+
 <section class="container py-8">
-      <h2 class="text-center pb-3 uppercase">Testimonials</h2>
+      <h2 class="text-center pb-3 uppercase">{{ i18n "testimonials" }}</h2>
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#carouselExampleIndicators" class="brand-color" data-slide-to="0" class="active"></li>

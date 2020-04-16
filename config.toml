@@ -93,4 +93,4 @@ googleAnalytics = "UA-163806581-1" # Your Analytics ID here
     instagram = "https://instagram.com/"
     logo = "img/logo.jpg"
     image = "img/og.png" # Ideal 1200 x 630 for schema + og
-
+    alt = "Magalie Seabrooke CST Consultant"
