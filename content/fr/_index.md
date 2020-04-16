@@ -11,20 +11,20 @@ lead: "Avec Magalie Seabrooke Consultante CST"
 cta: "Nos Services"
 cta__link: "services"
 # Service Section
-h2: "Nous sommes là pour vous aider!"
-subhead2: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus."
+h2: "Épargnez Sans Jamais Risquer Votre Capital"
+subhead2: "En ce qui concerne l'avenir de vos enfants, personne ne veut le laisser au hasard. Depuis plus de 10 ans, Magalie Seabrooke aide les familles à naviguer leurs options, maximiser les subventions gouvernemental et protéger leur capital grace à la Fondation Fiduciaire Canadienne de Bourses D’Études"
 
 h3: "On s'occupe de la technologie"
 subhead3: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus."
 # SERVICES BOX SECTION
-service1: "Service 1"
-service1__desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+service1: "Service personnalisé"
+service1__desc: "À partir du premier jour, jusqu’à celui où votre enfant obtient son diplôme d’études postsecondaires, Magalie et son équipe sont là pour vous."
 
-service2: "Service 2"
-service2__desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+service2: "Capital Garanti"
+service2__desc: "Nous nous concentrons sur la valeur à long terme en investissant de façon à protéger votre capital tout en réalisant des rendements positifs."
 
-service3: "Service 3"
-service3__desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+service3: "Régime Sur Mesure"
+service3__desc: "Magalie et son équipe vont créé un programme d'épargne fait sur mesure, ouvrir des nouvelles avenues et vous aider tout le long du processus."
 
 # BENEFIT SECTION
 benefit1: "Avantage #1"
