@@ -59,10 +59,11 @@ color: white;
 }
 .subheader {
     background-image: url(/img/hero.jpg);
-    background-position: bottom;
+    background-position: center;
     background-size: cover;
-    background-attachment: fixed;
-    height: 350px;
+    background-attachment: initial;;
+    height: 400px;
+    padding-top: 45px;
 }
 .bg-footer {
     background-color: #333;

@@ -26,8 +26,8 @@ googleAnalytics = "UA-163806581-1" # Your Analytics ID here
         weight = 2
 
     [[languages.fr.menu.main]]
-        name = "Services"
-        url = "/services/"
+        name = "REEE"
+        url = "/reee/"
         weight = 3
 
     [[languages.fr.menu.main]]
@@ -59,8 +59,8 @@ googleAnalytics = "UA-163806581-1" # Your Analytics ID here
         weight = 2
 
     [[languages.en.menu.main]]
-        name = "Services"
-        url = "/services/"
+        name = "RESP"
+        url = "/resp/"
         weight = 3
 
     [[languages.en.menu.main]]

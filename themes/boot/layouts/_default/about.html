@@ -15,8 +15,8 @@
         <p class="text-center lead about-name">{{.Params.name1}}</p>
     </div>
     <div class="col-lg-8 col-md-8 col-sm-12 home__about--desc">
-      <h2 class="display-4 about-h2">{{.Params.h2}}</h2>
-      <p class="lead">{{.Content}}</p>
+      <h2 class="display-4 about-h2">{{.Params.about1__heading}}</h2>
+      <p>{{.Params.about1__desc | safeHTML}}</p>
     </div>
   </div>
 </section>
@@ -50,4 +50,17 @@
   </div>
 </div>
 </section>
+<section class="container pb-8 mb-3 about__section">
+  <div class="row">
+    <div class="col-lg-4 col-md-4 col-sm-12">
+        <img src="{{ $.Site.BaseURL }}img/about-img2.jpg" alt="Image of {{ $.Site.Title }}" class="img-fluid img-thumbnail mb-2" data-aos="fade-right" data-aos-duration="800">
+    </div>
+    <div class="col-lg-8 col-md-8 col-sm-12 home__about--desc">
+      <h2 class="display-4 about-h2">{{.Params.about2__heading}}</h2>
+      <p>{{.Params.about2__desc | safeHTML}}</p>
+      <a href="{{.Params.cta__link}}"><button class="btn btn-outline-dark btn-lg">En Savoir Plus</button></a>
+    </div>
+  </div>
+</section>
+
 {{ end }}
