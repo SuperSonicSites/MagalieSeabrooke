@@ -24,7 +24,6 @@ service3: "Recevoir une éducation donne une longueur d’avance"
 
 service3_desc: "Plus que jamais, les marchés du travail canadien et mondial exigent des baccalauréats et des compétences spécialisées d’un niveau postsecondaire.<br></br>
 Vérifiez les faits suivants :
-<br></br>
 <ul>
 <li>En 2018, les droits de scolarité ont augmenté de 3,3 pour cent en moyenne dans tout le Canada pour totaliser 6 838 $ par an. Cette hausse a été plus rapide que l’inflation qui s’est chiffrée à 2,24 pour cent — et certaines provinces ont constaté des augmentations encore plus brusques.</li>
 <li>Selon un sondage Ipsos de 2017, plus de 75 % des Canadiens diplômés de moins de 40 ans disent regretter d’avoir contracté une dette étudiante. Les données de Statistique Canada indiquent que le diplômé universitaire moyen accumule des dettes de 26 000 $ d’ici la fin de ses études.</li>
