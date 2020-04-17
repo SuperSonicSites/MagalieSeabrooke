@@ -3,6 +3,7 @@ title: "REEE"
 description: "Une description de notre entreprise"
 layout: resp
 keywords: "service keywords"
+slug: "reee"
 # SERVICES
 service1: "Mon Service #1"
 

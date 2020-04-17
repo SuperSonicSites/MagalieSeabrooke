@@ -1,7 +1,6 @@
 ---
 title: "A Propos"
-description: "
-Apprenez-en davantage sur Magalie Seabrooke, la Fondation Fiduciaire Canadienne de Bourses D’Études et comment elle peut vous aider à atteindre vos objectifs."
+description: "Apprenez-en davantage sur Magalie Seabrooke, la Fondation Fiduciaire Canadienne de Bourses D’Études et comment elle peut vous aider à atteindre vos objectifs."
 slug: "a-propos"
 layout: about
 keywords: "Magalie Seabrooke, CST"
