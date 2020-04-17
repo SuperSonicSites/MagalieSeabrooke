@@ -6,7 +6,7 @@
         <div class="welcome-to font-weight-bold">{{.Params.welcome}}</div>
         <h1 class="display-3 uppercase">{{.Params.h1}}</h1>
         <p class="lead">{{.Params.lead}}</p>
-          <a href="{{.Params.cta__link}}"><button class="btn btn-outline-light btn-lg">{{.Params.cta}}</button></a>
+          <a href="{{.Params.cta__link}}"><button class="btn btn-success btn-lg">{{.Params.cta}}</button></a>
       </div>
     </div>
   </div>
@@ -47,13 +47,13 @@
 </section>
 <section class="home__benefits pt-8 bg-light">
   <div class="container">
-  <h2 class="home__benefits--heading display-4 text-center uppercase" data-aos="fade-up" data-aos-duration="800">{{.Params.h3}}</h2>
+    <img src="{{ $.Site.BaseURL }}img/hero2.jpg" alt="{{ $.Site.Params.alt }}" class="w-100 img-fluid shadow" data-aos="fade-up" data-aos-duration="800">
+  <h2 class="home__benefits--heading display-4 pt-4 text-center uppercase" data-aos="fade-up" data-aos-duration="800">{{.Params.h3}}</h2>
   <div class="lead home__benefits--subheading text-center pb-2" data-aos="fade-up" data-aos-duration="800">{{.Params.subhead3}}</div>
   <div class="d-flex justify-content-center mb-5" data-aos="fade-up" data-aos-duration="800">
   <a href="{{.Params.cta__link2}}"><button class="btn btn-outline-dark btn-lg">{{.Params.cta2}}</button></a>
   </div>
-  <img src="{{ $.Site.BaseURL }}img/hero2.jpg" alt="{{ $.Site.Params.alt }}" class="w-100 img-fluid shadow" data-aos="fade-up" data-aos-duration="800">
-</div>
+  </div>
 
 <section class="container py-8">
       <h2 class="text-center pb-3 uppercase">{{ i18n "testimonials" }}</h2>

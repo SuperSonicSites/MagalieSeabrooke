@@ -16,6 +16,7 @@ subhead2: "En ce qui concerne l'avenir de vos enfants, personne ne veut le laiss
 
 h3: "Travailllez Avec Magalie"
 subhead3: "Ma mission avec la Fondation Fiduciaire Canadienne de Bourses D’Études est d'aider les familles à atteindre leurs objectifs en matière d'études postsecondaires et aider les enfants canadiens à éliminer les obstacles financiers en utilisant les subventions gouvernementales à leur disposition."
+
 # SERVICES BOX SECTION
 service1: "Service Personnalisé"
 service1__desc: "À partir du premier jour, jusqu’à celui où votre enfant obtient son diplôme d’études postsecondaires, Magalie et son équipe sont là pour vous."
