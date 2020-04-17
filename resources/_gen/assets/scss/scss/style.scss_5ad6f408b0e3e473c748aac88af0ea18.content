@@ -10433,6 +10433,9 @@ a.text-dark:hover, a.text-dark:focus {
 .invisible {
   visibility: hidden !important; }
 
+.thankyou {
+  height: 85vh; }
+
 .translate {
   background-color: #222;
   padding: 0px;
