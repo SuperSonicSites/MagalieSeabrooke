@@ -1,5 +1,5 @@
 ---
-title: "Régime Enregistré d'Épargne-Études"
+title: "REEE"
 description: "Une description de notre entreprise"
 layout: resp
 keywords: "service keywords"
