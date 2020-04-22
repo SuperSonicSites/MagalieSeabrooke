@@ -11,12 +11,12 @@ about1__desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 Purus ut faucibus pulvinar elementum integer enim neque. Diam volutpat commodo sed egestas. Et netus et malesuada fames ac. At augue eget arcu dictum varius duis at consectetur lorem. Nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet. Ante in nibh mauris cursus. Maecenas sed enim ut sem viverra aliquet eget sit amet. At imperdiet dui accumsan sit amet. Sit amet nisl purus in mollis nunc sed. Risus quis varius quam quisque id diam vel quam elementum."
 name1: "Magalie Seabrooke" 
 # Skills Section
-skill1: "Service"
-skill1desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-skill2: "Experience"
-skill2desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-skill3: "Certifié"
-skill3desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+skill1: "Honnête"
+skill1desc: "Elle place toujours les besoins de ses clients au premier plan et conçois un plan d'action adapté à leurs situation."
+skill2: "Fiable"
+skill2desc: "Magalie est toujours disponible pour répondre aux questions et aux exigences de ceux qui veulent épargner dans un REEE."
+skill3: "Soutien Personnalisé"
+skill3desc: "Chaque personne et chaque situation est unique et c'est pourquoi l'approche de chaque plan doit l'être aussi."
 
 # Second About Section
 about2__heading: "La Fondation Fiduciaire Canadienne de Bourses D’Études"

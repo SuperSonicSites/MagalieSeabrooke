@@ -11,12 +11,11 @@
                 <div class="footer__box">
                 <h3 class="pb-1">{{ $.Site.Params.businessname }}</h3>
                 <p>{{ i18n "tagline" }}</p>
+                <a href="{{ $.Site.Params.facebookurl}}" class="socialicon">
                 <svg class="fill-brand">
                     <use xlink:href="{{ $.Site.BaseURL }}img/brands.svg#facebook-square"></use>
                   </svg>
-                  <svg class="fill-brand">
-                    <use xlink:href="{{ $.Site.BaseURL }}img/brands.svg#instagram"></use>
-                  </svg>
+                </a>
             </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12 pb-1">
