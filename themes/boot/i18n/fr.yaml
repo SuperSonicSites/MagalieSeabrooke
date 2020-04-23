@@ -8,3 +8,5 @@
   translation: "Témoignages"
 - id: faq
   translation: "Questions Fréquemment Posées"
+- id: appointment
+  translation: "Sur Rendez-Vous"

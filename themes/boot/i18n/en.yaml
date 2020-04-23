@@ -8,3 +8,5 @@
   translation: "Testimonials"
 - id: faq
   translation: "Frequently Asked Questions"
+- id: appointment
+  translation: "On Appointment"
