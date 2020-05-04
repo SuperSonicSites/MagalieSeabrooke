@@ -5,6 +5,7 @@ layout: resp
 keywords: "service keywords"
 slug: "reee"
 img: "service3.jpg"
+heading: "About RESP"
 # SERVICES
 service1: "What is an RESP?"
 service1_desc: "A registered education savings plan (RESP) is a savings vehicle that allows subscribers such as parents, grandparents, friends and other family members to save for the post-secondary education of a child or other beneficiaries. Today's job market demands higher education and specialized skills. An RESP is a great way to proactively save for your child's education so that when you are ready to start it, you can help them finance it.

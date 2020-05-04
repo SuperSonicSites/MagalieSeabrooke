@@ -4,6 +4,7 @@ description: "Apprenez-en davantage sur Magalie Seabrooke, la Fondation Fiduciai
 slug: "a-propos"
 layout: about
 keywords: "Magalie Seabrooke, CST"
+heading: "A Propos"
 # About Section
 about1__heading: "Passionné À Aider Les Familles!"
 about1__desc: "Magalie Seabrooke comprend de première main les défis et les préoccupations liés à planifier l'avenir comme parent. Recruté par C.S.T. Consultants, Inc. en 2003, quand, en tant que maman alors célibataire, elle a ouvert un régime enregistré d'épargne-études (REEE) avec C.S.T. pour sa fille de 4 semaines, Magalie savait qu'elle était sur la bonne voie et a poursuivi sa mission de changer le monde.

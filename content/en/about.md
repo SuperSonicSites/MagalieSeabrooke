@@ -3,6 +3,7 @@ title: "About Magalie Seabrooke | RESP Consultant with C.S.T"
 description: "Learn more about Magalie Seabrooke and the Canadian Scholarship Trust Plan."
 layout: about
 keywords: "Magalie Seabrooke, CST"
+heading: "About"
 # About Section
 about1__heading: "Passionatly Helping Families"
 about1__desc: "Magalie Seabrooke understands first-hand the challenges and concerns that come with parenting and planning for the future. Recruited by C.S.T. Consultants, Inc. in 2003, when, as a then-single mom, she opened a C.S.T. RESP for her 4-week-old daughter, Magalie knew she was on the right career path, and forged ahead with a mission to change the world. 
