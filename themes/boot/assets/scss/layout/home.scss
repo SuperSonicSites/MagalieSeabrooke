@@ -35,6 +35,9 @@
             margin-top: 0px !important;
         }
     }
+    .carousel-item {
+        height: 780px !important;
+    }
 }
 /* Homepage Header Section */
 
@@ -100,4 +103,7 @@
 .about-img {
     max-width: 200px !important;
     border-radius: 100%;
+}
+.carousel-item {
+    height: 600px !important;
 }

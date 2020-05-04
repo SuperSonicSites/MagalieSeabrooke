@@ -10766,7 +10766,9 @@ h1, h2, h3, h4 {
     .home__benefits-2 .row-1 {
       margin-bottom: 0px !important; }
     .home__benefits-2 .row-2 {
-      margin-top: 0px !important; } }
+      margin-top: 0px !important; }
+  .carousel-item {
+    height: 780px !important; } }
 
 /* Homepage Header Section */
 .header {
@@ -10820,6 +10822,9 @@ h1, h2, h3, h4 {
 .about-img {
   max-width: 200px !important;
   border-radius: 100%; }
+
+.carousel-item {
+  height: 600px !important; }
 
 @media only screen and (max-width: 768px) {
   .about-h2 {
