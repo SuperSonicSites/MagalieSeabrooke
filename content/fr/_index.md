@@ -35,7 +35,7 @@ cta2: "En Savoir Plus"
 testimonial1: "Emily" # Name 
 testimonial1__desc: "Lorsque vous rencontrez Magalie, ce qui devient immédiatement clair, c'est qu'elle aime les gens et adore les enfants! En tant que mère célibataire à temps partiel, avec des connaissances limitées en matière de REEE, je ne savais pas trop à quoi m'attendre. Mais Magalie m'a mis à l'aise tout de suite, et j'ai rapidement eu l'impression de m'asseoir avec une amie autour d'un café. Elle a vraiment écouté mes préoccupations, mes défis et mes objectifs et a travaillé avec moi pour trouver la meilleure solution pour ma famille." # Testimonial Content
 
-testimonial2: "Emily" # Name 
+testimonial2: "Renaud" # Name 
 testimonial2__desc: "Quel bijou! Magalie est plus qu'une personne compétente et bien informée en matière de REEE. Elle examine votre situation et trouve des ressources pour vous aider à arriver là où vous voulez aller. Elle est un connecteur, et une chose que vous savez avec certitude, c'est qu'elle va faire tout ce qu'il faut pour vous aider à arriver là où vous voulez aller." # Testimonial Content
 
 testimonial3: "Emily" # Name 
