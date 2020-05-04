@@ -26,9 +26,9 @@
                     {{ $.Site.Params.city }}, {{ $.Site.Params.region }}<br>
                     {{ $.Site.Params.postalcode }},{{ $.Site.Params.country }}<br>
                     </address>
-                    <strong>Phone:</strong>
+                    <strong>{{ i18n "phone" }}:</strong>
                     <a class="footer__highlight" href="tel:{{ $.Site.Params.phone }}"><u>{{ $.Site.Params.phone }}</u></a><br>
-                    <strong>Email:</strong>
+                    <strong>{{ i18n "email" }}:</strong>
                     <a class="footer__highlight" href="mailto:{{ $.Site.Params.email }}"><u>{{ $.Site.Params.email }}</u></a>
             </div>
         </div>

@@ -10,3 +10,9 @@
   translation: "Frequently Asked Questions"
 - id: appointment
   translation: "On Appointment"
+- id: learnmore
+  translation: "Learn More"
+- id: phone
+  translation: "Phone"
+- id: email
+  translation: "Email"

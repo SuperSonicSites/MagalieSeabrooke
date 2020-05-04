@@ -1,8 +1,8 @@
 ---
 layout: home
 # Meta Data
-title: "Accueil"
-description: "  Vous cherchez à avoir un bon site internet sans briser la banque? Découvrez les sites Gold Standard. Visitez notre site pour plus d'information"
+title: "Magalie Seabrooke: Consultante REEE avec C.S.T"
+description: "Magalie Seabrooke, Consultante CST aide les familles à maximiser sans risques le Régime Enregistré D'Épargne Étude de leur enfant(s)."
 keywords: "REEE, Magalie Seabrooke, CST consultant"
 # Hero Section
 welcome: "Préparez vous à"
@@ -12,7 +12,7 @@ cta: "Prendre Rendez-Vous"
 cta__link: "#"
 # Service Section
 h2: "Épargnez Sans Jamais Risquer Votre Capital"
-subhead2: "En ce qui concerne l'avenir de vos enfants, personne ne veut le laisser au hasard. Depuis plus de 10 ans, Magalie Seabrooke aide les familles à naviguer leurs options, maximiser les subventions gouvernemental et protéger leur capital grace à la Fondation Fiduciaire Canadienne de Bourses D’Études"
+subhead2: "En ce qui concerne l'avenir de vos enfants, personne ne veut le laisser au hasard. Depuis plus de 10 ans, Magalie Seabrooke aide les familles à naviguer leurs options, maximiser les subventions gouvernemental et protéger leur capital grace à la Fondation Fiduciaire Canadienne de Bourses D’Études."
 
 h3: "Travailllez Avec Magalie"
 subhead3: "Ma mission avec la Fondation Fiduciaire Canadienne de Bourses D’Études est d'aider les familles à atteindre leurs objectifs en matière d'études postsecondaires et aider les enfants canadiens à éliminer les obstacles financiers en utilisant les subventions gouvernementales à leur disposition."

@@ -10,3 +10,9 @@
   translation: "Questions Fréquemment Posées"
 - id: appointment
   translation: "Sur Rendez-Vous"
+- id: learnmore
+  translation: "En Savoir Plus"
+- id: phone
+  translation: "Téléphone"
+- id: email
+  translation: "Courriel"

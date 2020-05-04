@@ -1,51 +1,36 @@
 ---
 layout: home
 # Meta Data
-title: "Home"
-description: "The Homepage Description"
-keywords: "homepage keywords"
+title: "Magalie Seabrooke: RESP Consultant with C.S.T"
+description: "Magalie Seabrooke, CST Consultant helps families to safely maximize savings in their Registered Study Savings Plan (RESP)"
+keywords: "Magalie Seabrooke, RESP, CST Consultant"
 # Hero Section
-welcome: "Welcome!"
-h1: "Framework One"
-lead: "The Gold Standard for Small Business Owners"
-cta: "Our Services"
-cta__link: "services"
+welcome: "Prepare to"
+h1: "Unlocking the full potential of your RESP"
+lead: "With Magalie Seabrooke CST Consultant"
+cta: "Make An Appointment"
+cta__link: "#"
 # Service Section
-h2: "Where are here to serve you"
-subhead2: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus."
+h2: "Save Without Risking Your Capital"
+subhead2: "When it comes to your children's future, no one wants to leave it to chance. For over 10 years, Magalie Seabrooke has been helping families navigate their options, maximize government grants and protect their capital thanks to the Canadian Scholarship Trust Foundation."
 
-h3: "Powerful Heading"
-subhead3: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus."
+h3: "Work With Magalie"
+subhead3: "My mission with the Canadian Scholarship Trust Foundation is to help families reach their post-secondary education goals and help Canadian children remove financial barriers by using the government grants available to them."
 # SERVICES BOX SECTION
-service1: "Service 1"
-service1__img: "img/og.png"
-service1__desc: "With supporting text below as a natural lead-in to additional content."
+# SERVICES BOX SECTION
+service1: "Personalized Service"
+service1__desc: "From the first day until the day your child obtains a post-secondary diploma, Magalie and her team are there for you."
 
-service2: "Service 2"
-service2__img: "img/og.png"
-service2__desc: "With supporting text below as a natural lead-in to additional content."
+service2: "Guaranteed Capital"
+service2__desc: "We focus on long-term value by investing to protect your capital while achieving positive returns."
 
-service3: "Service 3"
-service3__img: "img/og.png"
-service3__desc: "With supporting text below as a natural lead-in to additional content."
+service3: "Tailor-Made Plan"
+service3__desc: "Magalie and her team will create a tailor-made savings program, open new avenues and help you throughout the process."
+
 # BENEFIT SECTION
-benefit1: "Benefit #1"
-benefit1__desc: "Incredible benefit of your business here"
+cta__link2: "about"
+cta2: "Learn More"
 
-benefit2: "Benefit #2"
-benefit2__desc: "Incredible benefit of your business here"
-
-benefit3: "Benefit #3"
-benefit3__desc: "Incredible benefit of your business here"
-
-benefit4: "Benefit #4"
-benefit4__desc: "Incredible benefit of your business here"
-
-benefit5: "Benefit #5"
-benefit5__desc: "Incredible benefit of your business here"
-
-benefit6: "Benefit #6"
-benefit6__desc: "Incredible benefit of your business here"
 
 # TESTIMONIAL SECTION
 testimonial1: "Emily" # Name 

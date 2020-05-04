@@ -5,6 +5,7 @@ layout: resp
 keywords: "service keywords"
 slug: "reee"
 img: "service3.jpg"
+
 # SERVICES
 service1: "Qu'est-ce qu'on REEE?"
 service1_desc: "Un régime enregistré d’épargne-études (REEE) est un moyen d’épargne qui permet à des souscripteurs comme des parents, des grands-parents, des amis et d’autres membres de la famille d’épargner pour les études postsecondaires d’un enfant ou d’autres bénéficiaires. Parallèlement, le marché du travail d’aujourd’hui exige une formation supérieure et des compétences spécialisées. Un REEE est un moyen judicieux d’épargner de façon proactive en vue des études de votre enfant de façon à ce que, lorsqu’il sera prêt à les entreprendre, vous soyez en mesure de l’aider à les financer.

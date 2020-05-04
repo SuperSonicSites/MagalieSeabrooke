@@ -90,10 +90,14 @@
 /* Homepage Services Section */
 .home__services {
     background-color: white;
+    &--box {
+        min-height: 460px !important;
+    }
     &--textbox {
         padding: 10px 20px 30px 20px;
     }
 }
+
 /* Homepage Benefit Section */
 .home__benefits-2 {
     margin-top: -390px;

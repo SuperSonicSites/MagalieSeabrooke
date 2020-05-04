@@ -1,6 +1,6 @@
 ---
-title: "A Propos"
-description: "Apprenez-en davantage sur Magalie Seabrooke, la Fondation Fiduciaire Canadienne de Bourses D’Études et comment elle peut vous aider à atteindre vos objectifs."
+title: "A Propos de Magalie Seabrooke | Consultante REEE avec C.S.T"
+description: "Apprenez-en davantage sur Magalie Seabrooke, la Fondation Fiduciaire Canadienne de Bourses D’Études."
 slug: "a-propos"
 layout: about
 keywords: "Magalie Seabrooke, CST"
@@ -15,6 +15,7 @@ about2__desc: "S'efforçant constamment de repousser ses limites et de se donner
 <br></br>
 Elle comprend également de première main les avantages d'investir dans vos enfants. La fille aînée de Magalie a maintenant 17 ans, a commencé le cégep à l'automne, avec un avenir radieux à l'horizon, grâce en partie à l'investissement fait par sa mère il y a 17 ans."
 name1: "Magalie Seabrooke" 
+
 # Skills Section
 skill1: "Honnête"
 skill1desc: "Elle place toujours les besoins de ses clients au premier plan et conçois un plan d'action adapté à leurs situation."

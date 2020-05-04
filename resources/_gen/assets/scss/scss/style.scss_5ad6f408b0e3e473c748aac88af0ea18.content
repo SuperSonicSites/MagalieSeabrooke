@@ -10810,6 +10810,8 @@ h1, h2, h3, h4 {
 /* Homepage Services Section */
 .home__services {
   background-color: white; }
+  .home__services--box {
+    min-height: 460px !important; }
   .home__services--textbox {
     padding: 10px 20px 30px 20px; }
 
@@ -10840,8 +10842,8 @@ h1, h2, h3, h4 {
 .home__about--desc {
   padding-right: 25px; }
 
-.home__services--box {
-  min-height: 240px; }
+.about__services--box {
+  min-height: 200px; }
 
 .contact__form--info {
   text-align: center;
