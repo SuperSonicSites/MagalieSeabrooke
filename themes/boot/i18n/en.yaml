@@ -16,3 +16,5 @@
   translation: "Phone"
 - id: email
   translation: "Email"
+- id: contactus
+  translation: "Get in Touch"
