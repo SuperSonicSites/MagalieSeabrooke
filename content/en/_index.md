@@ -48,14 +48,14 @@ benefit6: "Benefit #6"
 benefit6__desc: "Incredible benefit of your business here"
 
 # TESTIMONIAL SECTION
-testimonial1: "Lorem Ipsum" # Name 
-testimonial1__desc: "Convallis posuere morbi leo urna molestie at elementum. Turpis cursus in hac habitasse platea dictumst quisque. Nulla pellentesque dignissim enim sit amet venenatis. Euismod nisi porta lorem mollis aliquam ut porttitor. Consectetur a erat nam at lectus." # Testimonial Content
+testimonial1: "Emily" # Name 
+testimonial1__desc: "When you meet Magalie, what becomes immediately clear is that she loves people and adores kids! As a part-time single mom, with limited RESP knowledge, I wasn’t sure what to expect. But Magalie put me at ease right away, and I soon felt like I was sitting down with a friend over coffee. She really listened to my concerns, challenges and goals and worked with me to find the best solution for my family." # Testimonial Content
 
-testimonial2: "Lorem Ipsum" # Name 
-testimonial2__desc: "Convallis posuere morbi leo urna molestie at elementum. Turpis cursus in hac habitasse platea dictumst quisque. Nulla pellentesque dignissim enim sit amet venenatis. Euismod nisi porta lorem mollis aliquam ut porttitor. Consectetur a erat nam at lectus." # Testimonial Content
+testimonial2: "Renaud" # Name 
+testimonial2__desc: "What a gem! Magalie is more than a competent and knowledgeable person when it comes to RESP. She looks at your situation and finds resources to help you get where you want to go. She is a connector, and one thing you know for sure is that she is going to do whatever it takes to help you get to where you want to go." # Testimonial Content
 
-testimonial3: "Lorem Ipsum" # Name 
-testimonial3__desc: "Convallis posuere morbi leo urna molestie at elementum. Turpis cursus in hac habitasse platea dictumst quisque. Nulla pellentesque dignissim enim sit amet venenatis. Euismod nisi porta lorem mollis aliquam ut porttitor. Consectetur a erat nam at lectus." # Testimonial Content
+testimonial3: "Emily" # Name 
+testimonial3__desc: "When you meet Magalie, what becomes immediately clear is that she loves people and adores kids! As a part-time single mom, with limited RESP knowledge, I wasn’t sure what to expect. But Magalie put me at ease right away, and I soon felt like I was sitting down with a friend over coffee. She really listened to my concerns, challenges and goals and worked with me to find the best solution for my family." # Testimonial Content
 ---
 
 Eget dolor morbi non arcu risus quis varius quam quisque. Quam viverra orci sagittis eu volutpat odio facilisis. Dolor morbi non arcu risus quis. Iaculis nunc sed augue lacus viverra vitae. Cras sed felis eget velit aliquet sagittis id consectetur. Laoreet id donec ultrices tincidunt.
