@@ -10828,7 +10828,7 @@ h1, h2, h3, h4 {
     .home__benefits-2 .row-2 {
       margin-top: 0px; }
   .carousel-item {
-    height: 800px !important; } }
+    height: 900px !important; } }
 
 .home__about--desc {
   padding: 0 25px 25px 25px; }
