@@ -10841,7 +10841,9 @@ h1, h2, h3, h4 {
 
 @media only screen and (max-width: 768px) {
   .about__section {
-    padding: 0 5% !important; }
+    padding: 0 25px !important; }
+  .about__skills {
+    padding: 0 0px !important; }
   .about-h2 {
     font-size: 28px; }
   .about-name {
