@@ -1,7 +1,7 @@
 ---
 layout: home
 # Meta Data
-title: "Home:"
+title: "Home"
 description: "Magalie Seabrooke, CST Consultant helps families to safely maximize savings in their Registered Study Savings Plan (RESP)"
 keywords: "Magalie Seabrooke, RESP, CST Consultant"
 # Hero Section

@@ -1,7 +1,7 @@
 ---
 layout: home
 # Meta Data
-title: "Accueil:"
+title: "Accueil"
 description: "Magalie Seabrooke, Consultante CST aide les familles à maximiser sans risques le Régime Enregistré D'Épargne Étude de leur enfant(s)."
 keywords: "REEE, Magalie Seabrooke, CST consultant"
 # Hero Section
