@@ -3,7 +3,7 @@ title: "RESP"
 description: "Une description de notre entreprise"
 layout: resp
 keywords: "service keywords"
-slug: "reee"
+slug: "resp"
 img: "service3.jpg"
 heading: "About RESP"
 # SERVICES
