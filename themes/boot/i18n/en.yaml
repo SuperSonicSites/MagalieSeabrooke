@@ -24,3 +24,7 @@
   translation: "Get in Touch"
 - id: contactdetail
   translation: "Informations"
+- id: send
+  translation: "Send"
+- id: credit
+  translation: "Handcrafted with ❤️ by"
