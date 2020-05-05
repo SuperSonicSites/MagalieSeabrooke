@@ -1,10 +1,12 @@
 .home__about--desc {
-    padding: 25px;
+    padding: 0 25px 25px 25px;
 }
 .about__services--box {
     min-height: 200px;
 }
-
+.about-h2 {
+    font-size: 34px;
+}
 @media only screen and (max-width: 768px)  {
     .about__section {
         padding: 0 5% !important;
