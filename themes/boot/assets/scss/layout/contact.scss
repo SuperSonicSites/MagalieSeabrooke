@@ -8,6 +8,12 @@
     padding: 15px 0;
     border-top: 1px solid $brand-color;
 }
+.contact__detail a {
+    fill: $brand-color;
+}
+.contact__detail a:hover {
+    fill: black;
+}
 .map-wrapper {
     filter: grayscale(100%);
 }

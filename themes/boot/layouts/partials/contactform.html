@@ -13,15 +13,15 @@
               <div class="row">
                 <div class="col-md-6 col-sm-12">
                   <div class="form-group">
-                    <label for="form_name">First Name *</label>
-                    <input id="form_name" type="text" name="name" class="form-control" placeholder="Enter your firstname *" required="required" data-error="Firstname is required.">
+                    <label for="form_name">{{ i18n "firstname" }} *</label>
+                    <input id="form_name" type="text" name="name" class="form-control" required="required" data-error="Firstname is required.">
                     <div class="help-block with-errors"></div>
                   </div>
                 </div>
                 <div class="col-md-6  col-sm-12">
                   <div class="form-group">
-                    <label for="form_lastname">Last Name *</label>
-                    <input id="form_lastname" type="text" name="surname" class="form-control" placeholder="Please enter your lastname *" required="required" data-error="Lastname is required.">
+                    <label for="form_lastname">{{ i18n "lastname" }} *</label>
+                    <input id="form_lastname" type="text" name="surname" class="form-control" required="required" data-error="Lastname is required.">
                     <div class="help-block with-errors"></div>
                   </div>
                 </div>
@@ -29,15 +29,15 @@
               <div class="row">
                 <div class="col-md-6 col-sm-12">
                   <div class="form-group">
-                    <label for="form_email">Email *</label>
-                    <input id="form_email" type="email" name="email" class="form-control" placeholder="Enter your email *" required="required" data-error="Valid email is required.">
+                    <label for="form_email">{{ i18n "email" }} *</label>
+                    <input id="form_email" type="email" name="email" class="form-control"  required="required" data-error="Valid email is required.">
                     <div class="help-block with-errors"></div>
                   </div>
                 </div>
                 <div class="col-md-6 col-sm-12">
                   <div class="form-group">
-                    <label for="form_phone">Phone</label>
-                    <input id="form_phone" type="tel" name="phone" class="form-control" placeholder="Enter your phone">
+                    <label for="form_phone">{{ i18n "phone" }}</label>
+                    <input id="form_phone" type="tel" name="phone" class="form-control" >
                     <div class="help-block with-errors"></div>
                   </div>
                 </div>
@@ -46,7 +46,7 @@
                 <div class="col-md-12">
                   <div class="form-group">
                     <label for="form_message">Message *</label>
-                    <textarea id="form_message" name="message" class="form-control" placeholder="Type your message here...." rows="4" required data-error="Please,leave us a message."></textarea>
+                    <textarea id="form_message" name="message" class="form-control" rows="4" required data-error="Please,leave us a message."></textarea>
                     <div class="help-block with-errors"></div>
                   </div>
                 </div>
@@ -61,7 +61,7 @@
       </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 contact__form--info text-left">
-      <h2 class="pb-2">Contact Details</h2>
+      <h2 class="pb-2">{{ i18n "contactdetail" }}</h2>
       <div class="contact__detail">
         <svg class="fill-brand pr-1">
           <use xlink:href="{{ $.Site.BaseURL }}img/solid.svg#map-marker"></use>
@@ -82,14 +82,11 @@
       </div>
       <div class="contact__detail">
         <svg class="fill-brand">
-          <use xlink:href="{{ $.Site.BaseURL }}img/brands.svg#facebook-square"></use>
-        </svg>
-        <svg class="fill-brand">
-          <use xlink:href="{{ $.Site.BaseURL }}img/brands.svg#instagram"></use>
-        </svg>
+          <a href="{{ $.Site.Params.facebookurl}}"><use xlink:href="{{ $.Site.BaseURL }}img/brands.svg#facebook-square"></use>
+        </svg></a>
       </div>
       <div class="map-wrapper">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.6392906210613!2d-122.08624618435616!3d37.421999879825236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fba02425dad8f%3A0x6c296c66619367e0!2sGoogleplex!5e0!3m2!1sen!2sca!4v1585959269273!5m2!1sen!2sca" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22418.418027364456!2d-74.06348920997635!3d45.383073360066945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc948320e4b83e5%3A0xf26ffff1fdbfed99!2s167%20Rue%20Bach%2C%20Vaudreuil-Dorion%2C%20QC!5e0!3m2!1sen!2sca!4v1588692467891!5m2!1sen!2sca" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
     </div>
     </div>
       </div>

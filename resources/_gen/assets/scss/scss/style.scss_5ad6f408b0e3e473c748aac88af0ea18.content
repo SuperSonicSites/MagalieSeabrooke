@@ -10862,6 +10862,12 @@ h1, h2, h3, h4 {
   padding: 15px 0;
   border-top: 1px solid #28a745; }
 
+.contact__detail a {
+  fill: #28a745; }
+
+.contact__detail a:hover {
+  fill: black; }
+
 .map-wrapper {
   filter: grayscale(100%); }
 

@@ -12,7 +12,7 @@ service1_desc: "A registered education savings plan (RESP) is a savings vehicle 
 <br></br>
 Your RESP is registered with the Canada Revenue Agency. Although your contributions are not deductible from taxable income, they continue to accumulate tax free until your child or other beneficiaries need the funds. RESPs offer an additional feature that sets them apart from other registered accounts and other portfolios in the form of government grants."
 
-service2: "How can an RESP help you save?"
+service2: "<br>How can an RESP help you save?"
 
 service2_desc: "Opening an RESP can help you save for your child's education, but that's not all. Here are some other benefits you get when you open an RESP:
 <ul>

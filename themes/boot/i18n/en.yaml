@@ -12,9 +12,15 @@
   translation: "On Appointment"
 - id: learnmore
   translation: "Learn More"
+- id: firstname
+  translation: "First Name"
+- id: lastname
+  translation: "Last Name"
 - id: phone
   translation: "Phone"
 - id: email
   translation: "Email"
 - id: contactus
   translation: "Get in Touch"
+- id: contactdetail
+  translation: "Informations"
