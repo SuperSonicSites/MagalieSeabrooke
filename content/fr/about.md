@@ -26,8 +26,8 @@ skill3: "Soutien Personnalisé"
 skill3desc: "Chaque personne et chaque situation est unique et c'est pourquoi l'approche de chaque plan doit l'être aussi."
 
 # Second About Section
-about2__heading: "La Fondation Fiduciaire Canadienne de Bourses D’Études"
-about2__desc: "La Fondation fiduciaire canadienne de bourses d’études est l’un des plus importants et des plus anciens fournisseurs de régimes enregistrés d’épargne-études (REEE) collectifs au Canada qui fournit des solutions d’épargne-études à des familles d’un bout à l’autre du Canada depuis plus de 59 ans.
+about3__heading: "La Fondation Fiduciaire Canadienne de Bourses D’Études"
+about3__desc: "La Fondation fiduciaire canadienne de bourses d’études est l’un des plus importants et des plus anciens fournisseurs de régimes enregistrés d’épargne-études (REEE) collectifs au Canada qui fournit des solutions d’épargne-études à des familles d’un bout à l’autre du Canada depuis plus de 59 ans.
 <br><br>
 En qualité de distributeur et de gestionnaire de fonds d’investissement des régimes du Plan fiduciaire canadien de bourses d’études, Consultants C.S.T. inc. (CST) se consacre exclusivement aux régimes d’épargne-études – c’est tout ce qui nous importe, et notre seul domaine d’activité. Par l’entremise de son rôle de porte-parole et de la distribution de REEE, CST œuvre envers la réalisation de sa mission : aider tous les enfants canadiens à avoir les ressources financières suffisantes pour poursuivre des études postsecondaires. Les avantages d’un REEE – un instrument d’épargne pour les études postsecondaires futures de votre enfant - sont nombreux et importants."
 cta__link: "https://www.cst.org/"
