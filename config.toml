@@ -2,7 +2,7 @@ DefaultContentLanguage = "fr"
 baseURL = "/"
 theme = "boot"
 relativeURLs = true
-googleAnalytics = "UA-163806581-1" # Your Analytics ID here
+googleAnalytics = "UA-165627404-1" # Your Analytics ID here
 
 [languages]
   [languages.fr]
@@ -32,7 +32,7 @@ googleAnalytics = "UA-163806581-1" # Your Analytics ID here
 
     [[languages.fr.menu.main]]
         name = "Rendez-Vous"
-        url = "/rendez-vous/"
+        url = "https://calendly.com/info-magresp"
         weight = 4
 
     [[languages.fr.menu.main]]
@@ -66,7 +66,7 @@ googleAnalytics = "UA-163806581-1" # Your Analytics ID here
 
     [[languages.en.menu.main]]
         name = "Appointment"
-        url = "/appointment/"
+        url = "https://calendly.com/info-magresp"
         weight = 4
 
     [[languages.en.menu.main]]

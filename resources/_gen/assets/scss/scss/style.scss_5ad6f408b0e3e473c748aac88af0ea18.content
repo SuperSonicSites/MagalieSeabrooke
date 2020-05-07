@@ -10529,7 +10529,8 @@ a.text-dark:hover, a.text-dark:focus {
   width: 50%; }
 
 h1, h2, h3, h4 {
-  font-weight: 700 !important; }
+  font-family: "Montserrat";
+  font-weight: 400 !important; }
 
 .footer__highlight u {
   color: white !important; }
@@ -10753,7 +10754,7 @@ h1, h2, h3, h4 {
 .hero-content {
   position: absolute;
   top: 40%;
-  max-width: 60%; }
+  max-width: 980px; }
   .hero-content p {
     color: white; }
   .hero-content .welcome-to {
@@ -10783,7 +10784,7 @@ h1, h2, h3, h4 {
 .home__services {
   background-color: white; }
   .home__services--box {
-    min-height: 460px !important; }
+    min-height: 488px !important; }
   .home__services--textbox {
     padding: 10px 20px 30px 20px; }
 
@@ -10805,7 +10806,8 @@ h1, h2, h3, h4 {
   .header {
     height: 600px; }
   .hero-content {
-    max-width: 90%; }
+    max-width: 90%;
+    top: 30%; }
     .hero-content h1 {
       font-size: 2.5rem; }
   .home__services--heading {

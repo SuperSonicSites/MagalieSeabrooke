@@ -9,7 +9,7 @@ welcome: "Prepare to"
 h1: "Unlocking the full potential of your RESP"
 lead: "With Magalie Seabrooke CST Consultant"
 cta: "Make An Appointment"
-cta__link: "#"
+cta__link: "https://calendly.com/info-magresp"
 # Service Section
 h2: "Save Without Risking Your Capital"
 subhead2: "When it comes to your children's future, no one wants to leave it to chance. For over 10 years, Magalie Seabrooke has been helping families navigate their options, maximize government grants and protect their capital thanks to the Canadian Scholarship Trust Foundation."

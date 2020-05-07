@@ -9,7 +9,7 @@ welcome: "Préparez vous à"
 h1: "Libérer tout le potentiel de votre REEE"
 lead: "Avec Magalie Seabrooke Consultante CST"
 cta: "Prendre Rendez-Vous"
-cta__link: "#"
+cta__link: "https://calendly.com/info-magresp"
 # Service Section
 h2: "Épargnez Sans Jamais Risquer Votre Capital"
 subhead2: "En ce qui concerne l'avenir de vos enfants, personne ne veut le laisser au hasard. Depuis plus de 10 ans, Magalie Seabrooke aide les familles à naviguer leurs options, maximiser les subventions gouvernemental et protéger leur capital grace à la Fondation Fiduciaire Canadienne de Bourses D’Études."
