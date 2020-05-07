@@ -6,17 +6,17 @@ description: "Magalie Seabrooke, CST Consultant helps families to safely maximiz
 keywords: "Magalie Seabrooke, RESP, CST Consultant"
 # Hero Section
 welcome: "Prepare to"
-h1: "Unlocking the full potential of your RESP"
-lead: "With Magalie Seabrooke CST Consultant"
+h1: "Unlock the full potential of your RESP"
+lead: "With Magalie Seabrooke C.S.T Consultant"
 cta: "Make An Appointment"
 cta__link: "https://calendly.com/info-magresp"
 # Service Section
 h2: "Save Without Risking Your Capital"
-subhead2: "When it comes to your children's future, no one wants to leave it to chance. For over 10 years, Magalie Seabrooke has been helping families navigate their options, maximize government grants and protect their capital thanks to the Canadian Scholarship Trust Foundation."
+subhead2: "When it comes to your children’s future, no one wants to leave it to chance. For over 15 years, Magalie Seabrooke has been helping families navigate their options, maximize government grants, and protect their capital, thanks to the Canadian Scholarship Trust Foundation."
 
-h3: "Work With Magalie"
+h3: "WHY WORK WITH MAGALIE?"
 subhead3: "My mission with the Canadian Scholarship Trust Foundation is to help families reach their post-secondary education goals and help Canadian children remove financial barriers by using the government grants available to them."
-# SERVICES BOX SECTION
+
 # SERVICES BOX SECTION
 service1: "Personalized Service"
 service1__desc: "From the first day until the day your child obtains a post-secondary diploma, Magalie and her team are there for you."
@@ -37,10 +37,7 @@ testimonial1: "Emily" # Name
 testimonial1__desc: "When you meet Magalie, what becomes immediately clear is that she loves people and adores kids! As a part-time single mom, with limited RESP knowledge, I wasn’t sure what to expect. But Magalie put me at ease right away, and I soon felt like I was sitting down with a friend over coffee. She really listened to my concerns, challenges and goals and worked with me to find the best solution for my family." # Testimonial Content
 
 testimonial2: "Renaud" # Name 
-testimonial2__desc: "What a gem! Magalie is more than a competent and knowledgeable person when it comes to RESP. She looks at your situation and finds resources to help you get where you want to go. She is a connector, and one thing you know for sure is that she is going to do whatever it takes to help you get to where you want to go." # Testimonial Content
-
-testimonial3: "Emily" # Name 
-testimonial3__desc: "When you meet Magalie, what becomes immediately clear is that she loves people and adores kids! As a part-time single mom, with limited RESP knowledge, I wasn’t sure what to expect. But Magalie put me at ease right away, and I soon felt like I was sitting down with a friend over coffee. She really listened to my concerns, challenges and goals and worked with me to find the best solution for my family." # Testimonial Content
+testimonial2__desc: "What a gem! Magalie is more than a competent and knowledgeable person when it comes to RESPs. She looks at your situation and finds resources to help you get where you want to go. She is a connector, and one thing you know for sure is that she is going to do whatever it takes to help you save money for your children’s education"
 ---
 
 Eget dolor morbi non arcu risus quis varius quam quisque. Quam viverra orci sagittis eu volutpat odio facilisis. Dolor morbi non arcu risus quis. Iaculis nunc sed augue lacus viverra vitae. Cras sed felis eget velit aliquet sagittis id consectetur. Laoreet id donec ultrices tincidunt.

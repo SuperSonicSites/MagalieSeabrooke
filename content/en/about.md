@@ -6,7 +6,7 @@ keywords: "Magalie Seabrooke, CST"
 heading: "About"
 # About Section
 about1__heading: "Passionatly Helping Families"
-about1__desc: "Magalie Seabrooke understands first-hand the challenges and concerns that come with parenting and planning for the future. Recruited by C.S.T. Consultants, Inc. in 2003, when, as a then-single mom, she opened a C.S.T. RESP for her 4-week-old daughter, Magalie knew she was on the right career path, and forged ahead with a mission to change the world. 
+about1__desc: "Magalie Seabrooke understands first-hand the challenges and concerns that come with parenting and planning for the future. Recruited by C.S.T. Consultants, Inc. in 2003, when, as a (then) single mom, she opened a C.S.T. RESP for her 4-week-old daughter, Magalie knew she was on the right career path, and forged ahead with a mission to change the world.
 <br></br>
 Fiercely devoted to transforming lives through positive change, this now veteran C.S.T. scholarship plan representative, devoted wife and mother of three, is passionate in her conviction that every child is entitled to an education, that every child has the right to reach for, and achieve their dreams, and to design a future on their own terms. She believes that the greatest gifts parents can give their children are the resources that will set them on the path to accomplishing their goals, and she is committed to providing them with the best strategies and tools to make that happen.  
 <br></br>
@@ -17,17 +17,17 @@ She also understands first-hand the benefits of investing in your children. Maga
 name1: "Magalie Seabrooke" 
 # Skills Section
 skill1: "Honest"
-skill1desc: "She always puts the needs of her customers first and designs an action plan adapted to their situation."
+skill1desc: "Magalie always puts the needs of  customers first, designing action plans adapted for their situations."
 skill2: "Reliable"
-skill2desc: "Magalie is always available to answer questions and requirements for those who want to save in an RESP."
+skill2desc: "Magalie is always available to answer questions and address the concerns of  parents looking to invest in an RESP."
 skill3: "Custom Support"
-skill3desc: "Each person and each situation is unique and that is why the approach to each plan must be too."
+skill3desc: "No two individuals are the same, which is why every plan must be tailored to meet the needs of each family, as well as their unique situation and needs."
 
 # Second About Section
 about3__heading: "The Canadian Scholarship Trust Plan"
-about3__desc: "The Canadian Scholarship Trust Foundation is one of the largest and longest standing providers of group registered education savings plans (RESPs) in Canada that provides education savings solutions to families of across Canada for over 59 years.
-<br><br>
-As distributor and manager of investment funds for the Canadian Scholarship Trust Plans, Consultants C.S.T. inc. (CST) is dedicated exclusively to education savings plans - that's all that matters to us, and our only area of ​​business. Through its role as spokesperson and RESP distribution, CST works towards the fulfillment of its mission: to help all Canadian children have the financial resources to pursue post-secondary education. The benefits of an RESP - a savings vehicle for your child's future post-secondary education - are many and significant."
+about3__desc: "The Canadian Scholarship Trust Foundation is one of the largest and longest-standing providers of group registered education savings plans (RESPs) in Canada, offering education savings solutions to families across the country for over 59 years.
+<br></br>
+As the distributor and investment manager of the Canadian Scholarship Trust Plans, C.S.T. Consultants Inc (CST) is dedicated exclusively to education savings plans—that’s all that matters to us, and it’s our only area of ​​business. Through our advocacy and the distribution of RESPs, we continuously work towards fulfilling our mission: to help all Canadian children have the financial resources to pursue a post-secondary education. The benefits of an RESP—a savings vehicle for your child’s future post-secondary education—are many, and they are significant."
 cta__link: "https://www.cst.org/"
 ---
 
