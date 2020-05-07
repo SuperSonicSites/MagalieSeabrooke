@@ -50,6 +50,9 @@
 /* Homepage Services Section */
 .home__services {
     background-color: white;
+    h3 {
+        font-size: 1.4rem;
+    }
     &--box {
         min-height: 488px !important;
     }

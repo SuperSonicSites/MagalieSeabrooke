@@ -10783,6 +10783,8 @@ h1, h2, h3, h4 {
 /* Homepage Services Section */
 .home__services {
   background-color: white; }
+  .home__services h3 {
+    font-size: 1.4rem; }
   .home__services--box {
     min-height: 488px !important; }
   .home__services--textbox {
