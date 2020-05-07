@@ -4,6 +4,11 @@ theme = "boot"
 relativeURLs = true
 googleAnalytics = "UA-165627404-1" # Your Analytics ID here
 
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
 [languages]
   [languages.fr]
     title = "Magalie Seabrooke: Consultante en REEE avec CST"
