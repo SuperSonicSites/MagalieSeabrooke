@@ -32,12 +32,35 @@ Check the following facts:
 At the same time, the cost of education continues to skyrocket. Find out what it will cost in the future to send your kids to college or university when the time is right for them to go to school."
 
 # FAQ
-question1: "Question 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-answer1: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rutrum purus sit amet consectetur consequat. Vestibulum pharetra tellus lacus, et ultrices urna scelerisque ut. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus vestibulum enim vitae erat imperdiet semper. "
+question1: "What is principal protection?"
+answer1: "We invest to protect your principal and will return it to you once your child is ready to attend post-secondary education. To provide this protection, we invest your principal in securities such as fixed-income government and investment-grade corporate bonds which are lower risk, investments.  Protecting your principal is one of our investment objectives and we're proud to say that we have upheld our promise of providing principal protection throughout our history."
 
-question2: "Question 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-answer2: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rutrum purus sit amet consectetur consequat. Vestibulum pharetra tellus lacus, et ultrices urna scelerisque ut. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus vestibulum enim vitae erat imperdiet semper. "
+question2: "What types of post-secondary schools and programs qualify?"
+answer2: "Full-time studies are eligible at institutions ranging from community colleges, CEGEPs and universities to part-time studies at vocational, technical, trade and religious schools. We recognize distance learning and correspondence courses, too. Any program of three weeks or more that qualifies under the Income Tax Act in Canada is eligible. If your child is studying outside of Canada, any full-time university program of three weeks or more is eligible; any other post-secondary program abroad must be of 13 weeks or more in duration."
 
-question3: "Question 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-answer3: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rutrum purus sit amet consectetur consequat. Vestibulum pharetra tellus lacus, et ultrices urna scelerisque ut. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus vestibulum enim vitae erat imperdiet semper. "
+question3: "How is my money invested?"
+answer3: "We focus on long-term value by investing to protect your principal while earning  long-term positive returns. To protect your principal in your RESP, we invest your contributions in more stable securities such as:
+<ol>
+<li>Government bonds</li>
+<li>Investment grade corporate bonds (bonds assessed as high quality by the ratings agencies indicating a strong potential of repaying the loans)</li>
+</ol>
+Once your child is ready to attend post-secondary education, you can withdraw your principal. To maximize the value of your RESP, the income that your principal earns over the life of your RESP is invested in higher return securities such as:
+<ol>
+<li>A mix of Canadian equities</li>
+<li>S. Equity Exchange Traded Funds (ETFs)</li>
+<li>Real Estate and Infrastructure ETFs</li>
+<li>International Equity ETFs</li>
+</ol>
+Our investment approach is built exclusively for RESPS. This means that we invest on a long-term time-horizon to grow the Plan assets so that when your child turns 18, the funds are there for their post-secondary education."
+
+question4: "What happens if my child doesn’t go to post-secondary education?"
+answer4: "If your child doesn't pursue post-secondary education, you have a number of options.
+<ul>
+<li>You could transfer your CST Advantage Plan to another child</li>
+<li>You could transfer your CST Advantage Plan to an Individual or Family Savings Plan with CST (please understand that you would lose the group plan benefits)</li>
+<li>You may be able to transfer some or all your income to your Registered Retirement Savings Plan (RRSP) tax-free</li>
+<li>You may be able to transfer some or all your income to a Registered Disability Savings Plan (RDSP) tax-free</li>
+<li>You may be able to withdraw the income (at your marginal tax rate plus an addition 20%)</li>
+</ul>
+We will work with you to assess all of your options. Please remember, however, that, in the case the child does not pursue post-secondary education, the government requires that all of its unused grants be returned. "
 ---

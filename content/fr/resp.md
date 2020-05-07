@@ -32,12 +32,35 @@ Vérifiez les faits suivants :
 Parallèlement, le coût des études continue de monter en flèche. Vérifiez quel sera le coût futur d’envoyer vos enfants au collège ou à l’université lorsque le moment sera venu pour eux d’entreprendre leurs études."
 
 # FAQ
-question1: "Question 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-answer1: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rutrum purus sit amet consectetur consequat. Vestibulum pharetra tellus lacus, et ultrices urna scelerisque ut. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus vestibulum enim vitae erat imperdiet semper. "
+question1: "Qu’est-ce que la protection du capital?"
+answer1: "Nous investissons dans le but de protéger votre capital et vous le rembourserons une fois que votre enfant sera prêt à entreprendre des études postsecondaires. Pour ce faire, nous investissons votre capital dans des titres comme des obligations gouvernementales et des obligations de sociétés de qualité, qui comportent moins de risques. La protection de votre capital est l’un de nos objectifs de placement et nous sommes fiers de dire que, tout au long de son histoire, la Fondation CST a tenu sa promesse d’accomplir cela."
 
-question2: "Question 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-answer2: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rutrum purus sit amet consectetur consequat. Vestibulum pharetra tellus lacus, et ultrices urna scelerisque ut. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus vestibulum enim vitae erat imperdiet semper. "
+question2: "Quels programmes d’études permettent à mon enfant d’obtenir des fonds des régimes collectifs de CST?"
+answer2: "L’accès est facile! Grâce au Régime Avantage CST, votre enfant peut recevoir des paiements d’aide aux études (PAE) en quatre versements (à raison de un PAE par année). Pour recevoir un PAE, votre enfant doit être inscrit à un programme d’études admissible cette année-là. Les programmes d’études à plein temps et à temps partiel ouvrent droit aux PAE et vous êtes aussi admissible au remboursement des frais de souscription si vous répondez aux conditions de votre régime. Nous reconnaissons également l’apprentissage à distance et les cours par correspondance. Tout programme d’une durée d’au moins trois semaines reconnu par la Loi de l’impôt sur le revenu du Canada est admissible. Si votre enfant étudie à l’extérieur du Canada, tout programme universitaire à plein temps de trois semaines ou plus est admissible; tout autre programme postsecondaire à l’étranger doit être d’une durée de 13 semaines ou plus. Si l’établissement postsecondaire est admissible, il est également admissible en vertu de notre régime aux PAE. Cliquez ici pour consulter une liste des établissements admissibles. Votre enfant a également jusqu’à la 36e année de régime pour toucher tous ses PAE."
 
-question3: "Question 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-answer3: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rutrum purus sit amet consectetur consequat. Vestibulum pharetra tellus lacus, et ultrices urna scelerisque ut. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus vestibulum enim vitae erat imperdiet semper. "
+question3: "Comment mes fonds sont-ils investis?"
+answer3: "Nous nous concentrons sur la valeur à long terme en investissant de façon à protéger votre capital tout en vous fournissant des rendements positifs sur le long terme. Pour protéger votre capital dans votre REEE, nous investissons vos cotisations dans des titres sûrs comme :
+<ul>
+<li> des obligations gouvernementales</li>
+<li> des obligations de sociétés de première qualité (des obligations évaluées comme étant de haute qualité par les agences de notation indiquant un fort potentiel pour rembourser les emprunts).</li>
+</ul>
+Lorsque votre enfant est prêt à poursuivre des études postsecondaires, vous pouvez retirer votre capital. 
+Pour maximiser la valeur de votre REEE, le revenu que votre capital réalise sur la durée du régime est investi dans des titres à revenu élevé comme :
+<ul>
+<li>un mélange d’actions canadiennes</li>
+<li>des fonds négociés en bourse (FNB) d’actions américaines</li>
+<li>des FNB immobiliers et d’infrastructures</li>
+<li>des FNB d’actions internationales</li>
+</ul>
+Notre stratégie de placement est conçue exclusivement pour les REEE. Cela signifie que nous investissons sur un horizon temporel de placement à long terme pour faire fructifier l’actif du régime de sorte que lorsque votre enfant aura 18 ans, les fonds seront disponibles pour ses études postsecondaires."
+
+question4: "Qu’adviendra-il si je cotise à un REEE et que mon enfant ne poursuit pas d’études postsecondaires?"
+answer4: "Différentes options s’offrent à vous:
+<ul>
+<li>Vous pouvez transférer votre régime à un autre enfant admissible</li>
+<li>Si votre enfant a plus de 21 ans et que le régime est en vigueur depuis plus de dix ans :</li>
+<ol>
+<li>vous pourrez transférer jusqu’à 50 000 $ du revenu à votre REER ou à votre REER de conjoint, sans imposition, dans la mesure où vous disposerez de droits de cotisation suffisants. Les subventions gouvernementales reçues devront être remboursées au gouvernement.</li>
+<li>Si vous préférez, vous pouvez simplement retirer le revenu et payer l’impôt exigé sur le revenu à votre taux d’imposition marginal, plus 20 %. N’oubliez pas, votre capital vous sera toujours remboursé libre d’impôt. Les subventions gouvernementales reçues devront être remboursées au gouvernement.</li>
+</ol></ul>"
 ---
