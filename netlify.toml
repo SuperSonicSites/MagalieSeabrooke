@@ -1,9 +1,3 @@
-[[plugins]]
-package = "@netlify/plugin-sitemap"
-
-[plugins.inputs]
-  buildDir = "public"
-
 [[redirects]]
         from = "/*"
         to = "/404.html"
