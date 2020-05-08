@@ -12,7 +12,7 @@ service1_desc: "Un régime enregistré d’épargne-études (REEE) est un moyen 
 <br></br>
 Votre REEE est enregistré auprès de l’Agence du revenu du Canada. Bien que vos cotisations ne soient pas déductibles du revenu imposable, elles continuent de s’accumuler libre d’impôt jusqu’à ce que votre enfant ou d’autres bénéficiaires aient besoin des fonds. Les REEE offrent une caractéristique additionnelle qui les distingue d’autres comptes enregistrés et d’autres portefeuilles sous la forme de subventions gouvernementales."
 
-service2: "Comment un REEE peut-il vous aider à épargner?"
+service2: "COMMENT UN REEE PEUT-IL VOUS AIDER À ÉPARGNER?"
 
 service2_desc: "Ouvrir un REEE peut vous aider à épargner en vue des études de votre enfant, mais ce n’est pas tout. Voici quelques autres avantages que vous obtenez en ouvrant un REEE :
 <ul>
