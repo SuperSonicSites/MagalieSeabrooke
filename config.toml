@@ -3,6 +3,7 @@ baseURL = "https://www.magalieseabrooke.ca/"
 theme = "boot"
 relativeURLs = false
 googleAnalytics = "UA-165627404-1" # Your Analytics ID here
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [sitemap]
   changefreq = "monthly"
