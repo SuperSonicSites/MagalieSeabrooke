@@ -1,7 +1,7 @@
 DefaultContentLanguage = "fr"
-baseURL = "https://www.magalieseabrooke.ca"
+baseURL = "https://www.magalieseabrooke.ca/"
 theme = "boot"
-relativeURLs = true
+relativeURLs = false
 googleAnalytics = "UA-165627404-1" # Your Analytics ID here
 
 [sitemap]
