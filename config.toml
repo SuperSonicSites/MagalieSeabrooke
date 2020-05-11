@@ -1,7 +1,7 @@
 DefaultContentLanguage = "fr"
 baseURL = "https://www.magalieseabrooke.ca/"
 theme = "boot"
-relativeURLs = false
+relativeURLs = true
 googleAnalytics = "UA-165627404-1" # Your Analytics ID here
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
@@ -23,17 +23,17 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[languages.fr.menu.main]]
         name = "Accueil"
-        url = "https://www.magalieseabrooke.ca"
+        url = "/"
         weight = 1
 
     [[languages.fr.menu.main]]
         name = "A Propos"
-        url = "https://www.magalieseabrooke.ca/a-propos/"
+        url = "/a-propos/"
         weight = 2
 
     [[languages.fr.menu.main]]
         name = "REEE"
-        url = "https://www.magalieseabrooke.ca/reee/"
+        url = "/reee/"
         weight = 3
 
     [[languages.fr.menu.main]]
@@ -43,7 +43,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[languages.fr.menu.main]]
         name = "Contact"
-        url = "https://www.magalieseabrooke.ca/contact/"
+        url = "/contact/"
         weight = 5
 
 [languages.en]
@@ -62,12 +62,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     
     [[languages.en.menu.main]]
         name = "About"
-        url = "https://www.magalieseabrooke.ca/about/"
+        url = "/about/"
         weight = 2
 
     [[languages.en.menu.main]]
         name = "RESP"
-        url = "https://www.magalieseabrooke.ca/resp/"
+        url = "/resp/"
         weight = 3
 
     [[languages.en.menu.main]]
@@ -77,7 +77,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
     [[languages.en.menu.main]]
         name = "Contact"
-        url = "https://www.magalieseabrooke.ca/contact/"
+        url = "/contact/"
         weight = 5
 
 [params]
