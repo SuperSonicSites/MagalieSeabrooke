@@ -56,17 +56,17 @@ googleAnalytics = "UA-165627404-1" # Your Analytics ID here
     
     [[languages.en.menu.main]]
         name = "Home"
-        url = "https://www.magalieseabrooke.ca/en"
+        url = "https://www.magalieseabrooke.ca"
         weight = 1
     
     [[languages.en.menu.main]]
         name = "About"
-        url = "https://www.magalieseabrooke.ca/en/about/"
+        url = "https://www.magalieseabrooke.ca/about/"
         weight = 2
 
     [[languages.en.menu.main]]
         name = "RESP"
-        url = "https://www.magalieseabrooke.ca/en/resp/"
+        url = "https://www.magalieseabrooke.ca/resp/"
         weight = 3
 
     [[languages.en.menu.main]]
@@ -76,7 +76,7 @@ googleAnalytics = "UA-165627404-1" # Your Analytics ID here
 
     [[languages.en.menu.main]]
         name = "Contact"
-        url = "https://www.magalieseabrooke.ca/en/contact/"
+        url = "https://www.magalieseabrooke.ca/contact/"
         weight = 5
 
 [params]
