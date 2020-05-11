@@ -1,5 +1,5 @@
 DefaultContentLanguage = "fr"
-baseURL = "/"
+baseURL = "https://www.magalieseabrooke.ca"
 theme = "boot"
 relativeURLs = true
 googleAnalytics = "UA-165627404-1" # Your Analytics ID here
@@ -22,17 +22,17 @@ googleAnalytics = "UA-165627404-1" # Your Analytics ID here
 
     [[languages.fr.menu.main]]
         name = "Accueil"
-        url = "/"
+        url = "https://www.magalieseabrooke.ca"
         weight = 1
 
     [[languages.fr.menu.main]]
         name = "A Propos"
-        url = "/a-propos/"
+        url = "https://www.magalieseabrooke.ca/a-propos/"
         weight = 2
 
     [[languages.fr.menu.main]]
         name = "REEE"
-        url = "/reee/"
+        url = "https://www.magalieseabrooke.ca/reee/"
         weight = 3
 
     [[languages.fr.menu.main]]
@@ -42,7 +42,7 @@ googleAnalytics = "UA-165627404-1" # Your Analytics ID here
 
     [[languages.fr.menu.main]]
         name = "Contact"
-        url = "/contact/"
+        url = "https://www.magalieseabrooke.ca/contact/"
         weight = 5
 
 [languages.en]
@@ -56,17 +56,17 @@ googleAnalytics = "UA-165627404-1" # Your Analytics ID here
     
     [[languages.en.menu.main]]
         name = "Home"
-        url = "/"
+        url = "https://www.magalieseabrooke.ca/en"
         weight = 1
     
     [[languages.en.menu.main]]
         name = "About"
-        url = "/about/"
+        url = "https://www.magalieseabrooke.ca/en/about/"
         weight = 2
 
     [[languages.en.menu.main]]
         name = "RESP"
-        url = "/resp/"
+        url = "https://www.magalieseabrooke.ca/en/resp/"
         weight = 3
 
     [[languages.en.menu.main]]
@@ -76,7 +76,7 @@ googleAnalytics = "UA-165627404-1" # Your Analytics ID here
 
     [[languages.en.menu.main]]
         name = "Contact"
-        url = "/contact/"
+        url = "https://www.magalieseabrooke.ca/en/contact/"
         weight = 5
 
 [params]
