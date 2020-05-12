@@ -8,7 +8,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
-  priority = 0.5
 
 [languages]
   [languages.fr]
@@ -96,7 +95,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     postalcode = "J7V 0M7" # Enter Postal Code
     phone = "+1-514-831-2168" # Enter Phone Number
     email = "info@magalieseabrooke.ca" # Enter Your Email
-    facebookurl = "https://www.facebook.com/magalie.seabrooke"
+    facebookurl = "http://m.me/magalie.seabrooke"
     instagram = "https://instagram.com/"
     logo = "img/logo.jpg"
     image = "img/og.png" # Ideal 1200 x 630 for schema + og
