@@ -5,7 +5,7 @@ layout: about
 keywords: "Magalie Seabrooke, CST"
 heading: "About"
 # About Section
-about1__heading: "Passionatly Helping Families"
+about1__heading: "Passionately Helping Families"
 about1__desc: "Magalie Seabrooke understands first-hand the challenges and concerns that come with parenting and planning for the future. Recruited by C.S.T. Consultants, Inc. in 2003, when, as a (then) single mom, she opened a C.S.T. RESP for her 4-week-old daughter, Magalie knew she was on the right career path, and forged ahead with a mission to change the world.
 <br></br>
 Fiercely devoted to transforming lives through positive change, this now veteran C.S.T. scholarship plan representative, devoted wife and mother of three, is passionate in her conviction that every child is entitled to an education, that every child has the right to reach for, and achieve their dreams, and to design a future on their own terms. She believes that the greatest gifts parents can give their children are the resources that will set them on the path to accomplishing their goals, and she is committed to providing them with the best strategies and tools to make that happen.  
