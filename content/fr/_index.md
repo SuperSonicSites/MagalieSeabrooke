@@ -28,6 +28,9 @@ service3: "Régime sur mesure"
 service3__desc: "Magalie et son équipe vont créer un programme d'épargne fait sur mesure, ouvrir des nouvelles avenues et vous aider tout le long du processus."
 
 # BENEFIT SECTION
+cta_contestlink: https://cstinspirezunreve.ca/?ac=9788
+cta_contesttext: Participez au concours
+
 cta__link2: "a-propos"
 cta2: "En Savoir Plus"
 

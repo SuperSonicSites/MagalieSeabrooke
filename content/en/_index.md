@@ -28,6 +28,9 @@ service3: "Tailor-Made Plan"
 service3__desc: "Magalie and her team will create a tailor-made savings program, open new avenues and help you throughout the process."
 
 # BENEFIT SECTION
+cta_contestlink: https://www.cstinspireadream.ca/9788
+cta_contesttext: Enter the Contest
+
 cta__link2: "about"
 cta2: "Learn More"
 
