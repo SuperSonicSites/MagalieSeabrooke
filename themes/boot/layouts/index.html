@@ -45,18 +45,8 @@
     </div>
   </div>
 </section>
-<section class="home__benefits pt-8 bg-light">
+<section class="home__benefits pt-4 bg-light">
   <div class="container">
-    <a href="{{.Params.cta_contestlink}}">
-      {{ if eq .Site.Language.Lang "fr" }}
-      <img src="{{ $.Site.BaseURL }}img/promo.jpg" alt="Concours CST" class="w-100 img-fluid shadow" data-aos="fade-up" data-aos-duration="800">
-      {{ else }}
-      <img src="{{ $.Site.BaseURL }}img/promo.jpg" alt="Concours CST" class="w-100 img-fluid shadow" data-aos="fade-up" data-aos-duration="800">
-      {{ end }}
-  </a>
-  <div class="d-flex justify-content-center my-5">
-  <a href="{{.Params.cta_contestlink}}"><button class="btn btn-outline-dark btn-lg">{{.Params.cta_contesttext}}</button></a>
-  </div>
     <h2 class="home__benefits--heading display-4 pt-4 text-center uppercase" data-aos="fade-up" data-aos-duration="800">{{.Params.h3}}</h2>
   <div class="lead home__benefits--subheading text-center pb-2" data-aos="fade-up" data-aos-duration="800">{{.Params.subhead3}}</div>
   <div class="d-flex justify-content-center mb-5" data-aos="fade-up" data-aos-duration="800">
